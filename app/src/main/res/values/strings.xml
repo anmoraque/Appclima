@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">23º</string>
+    <string name="texto_ciudad">Jerez de la Frontera</string>
+    <string name="texto_estatus">Nublado</string>
+    <string name="texto_elegir_ciudad">Bienvenido a mi app de clima, para ver el clima de una ciudad seleccionala</string>
+    <string name="texto_boton_jerez">Jerez de la Frontera</string>
+    <string name="texto_boton_sevilla">Sevilla</string>
+    <string name="texto_boton_puerto">El Puerto de Santa María</string>
+    <string name="texto_boton_tarifa">Tarifa</string>
+</resources>
